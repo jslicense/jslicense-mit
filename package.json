@@ -1,0 +1,16 @@
+{
+  "name": "jslicense-mit",
+  "description": "the MIT License",
+  "version": "0.0.0-prerelease",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
+  "bugs": "https://github.com/jslicense/jslicense-mit/issues",
+  "homepage": "https://jslicense.github.io",
+  "keywords": [
+    "MIT",
+    "jslicense",
+    "license"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": "jslicense/mit"
+}
