@@ -1,7 +1,7 @@
 {
   "name": "jslicense-mit",
   "description": "the MIT License in jslicense format",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
   "bugs": "https://github.com/jslicense/jslicense-mit/issues",
   "homepage": "https://jslicense.github.io",
